@@ -1,25 +1,17 @@
 # CIM-Hub
 
+## 先进存算一体芯片设计
 
+陈巍谈芯：7.2 RRAM模拟存内计算  https://zhuanlan.zhihu.com/p/474261353
 
-## 主要新闻 
+## 存算一体投资分析
+
+存算一体技术是什么？发展史、优势、应用方向、主要介质  https://zhuanlan.zhihu.com/p/480612865
+
+存算一体芯片赛道企业收录  https://zhuanlan.zhihu.com/p/480397512
+
+## 主要新闻
 
 三星研发出首个基于存算一体技术的GPU大型计算系统  https://zhuanlan.zhihu.com/p/591850021
 
-如何评价清华大学开源的GPGPU “承影”？  https://www.zhihu.com/question/549317122/answer/2639963157
-
-最新发布的壁仞GPU BR100参数深度对比和优势分析  https://zhuanlan.zhihu.com/p/551888300
-
-如何评价摩尔线程发布基于 MUSA 统一系统架构发布的 GPU?  https://www.zhihu.com/question/525095060/answer/2417993218
-
-被列入禁运的英伟达最先进H100 GPU架构深入解读  https://zhuanlan.zhihu.com/p/487250706
-
-## GPGPU 芯片设计：原理与实践
-
-陈巍谈芯：2（上）GPGPU编程模型之CUDA  https://zhuanlan.zhihu.com/p/565897763
-
-陈巍谈芯：3（上） GPGPU流式多处理器架构之取指译码发射  https://zhuanlan.zhihu.com/p/572302589
-
-陈巍谈芯：8.1（中）NVDLA硬件架构之激活到数据接口  https://zhuanlan.zhihu.com/p/561962088
-
-陈巍谈芯：8.1（上）NVDLA硬件架构之卷积核心  https://zhuanlan.zhihu.com/p/561018305
+Nature首发的三星存内计算芯片的原理和不足是什么？  https://zhuanlan.zhihu.com/p/460433284
