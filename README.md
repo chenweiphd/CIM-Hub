@@ -1,1 +1,1 @@
-# CIM-resource
+# CIM-Hub
